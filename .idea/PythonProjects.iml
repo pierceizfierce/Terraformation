@@ -12,6 +12,7 @@
     <option name="namespacePackageFolders">
       <list>
         <option value="$MODULE_DIR$/Ansible-Playbook" />
+        <option value="$MODULE_DIR$/Azure-ngfwv" />
       </list>
     </option>
   </component>
