@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/PycharmProjects/Ansible-Playbook/.idea/Ansible-Playbook.iml" filepath="$USER_HOME$/PycharmProjects/Ansible-Playbook/.idea/Ansible-Playbook.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PythonProjects.iml" filepath="$PROJECT_DIR$/.idea/PythonProjects.iml" />
     </modules>
   </component>
