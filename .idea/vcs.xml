@@ -5,6 +5,6 @@
     <mapping directory="$PROJECT_DIR$/Ansible-Playbook" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Azure-ngfwv" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Burmese" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Git_Projects" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Custom GUI" vcs="Git" />
   </component>
 </project>
