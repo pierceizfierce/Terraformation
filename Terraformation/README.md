@@ -50,7 +50,7 @@ In this example:
 - bucket_name, acl, force_destroy are example input variables provided by the module.
 
 # Additional Notes:
-- 
+
 - Ensure that your Terraform project is properly configured with AWS credentials or appropriate provider configurations if you are using modules for a specific cloud provider.
 - Always specify a version constraint (version) for modules to ensure predictable and repeatable deployments.
 - You can find available modules and their sources on the Terraform Registry website (registry.terraform.io) by searching for modules based on your requirements.
