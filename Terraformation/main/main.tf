@@ -13,3 +13,4 @@ module "Mod_CreateEC2" {
   subnet_id     = "subnet-12345678"  # Update with your desired subnet ID
   instance_name = "MyEC2Instance" # Update with your desired instance name
 }
+
